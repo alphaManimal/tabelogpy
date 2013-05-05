@@ -1,6 +1,6 @@
 import tabel
 
-fkey = open('../../../.tabelogapikey','r')
+fkey = open('~/.tabelogapikey','r')
 apiKey = fkey.readline().strip('\n')
 
 # test sets

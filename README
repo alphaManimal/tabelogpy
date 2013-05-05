@@ -1,1 +1,7 @@
-tabelog + python 
+tabelogpy = tabelog + python 
+
+A Python interface for the Tabelog API. 
+
+An API key can be obtained here:
+http://tabelog.com/help/api/
+
